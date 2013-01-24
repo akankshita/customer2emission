@@ -1,0 +1,562 @@
+# Logfile created on Wed Jan 09 12:30:49 +0530 2013 by logger.rb/1.2.6
+[01/09/13 12:30:49 +0530 tt-09 (5944)] INFO : Dispatcher: webrick
+[01/09/13 12:30:49 +0530 tt-09 (5944)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/09/13 12:30:49 +0530 tt-09 (5944)] WARN : Agent configured not to send data in this environment.
+[01/09/13 12:30:49 +0530 tt-09 (5944)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 5944
+[01/09/13 12:30:49 +0530 tt-09 (5944)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/09/13 12:35:54 +0530 tt-09 (6025)] INFO : Dispatcher: webrick
+[01/09/13 12:35:54 +0530 tt-09 (6025)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/09/13 12:35:54 +0530 tt-09 (6025)] WARN : Agent configured not to send data in this environment.
+[01/09/13 12:35:54 +0530 tt-09 (6025)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6025
+[01/09/13 12:35:54 +0530 tt-09 (6025)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/09/13 13:12:24 +0530 tt-09 (6607)] INFO : Dispatcher: webrick
+[01/09/13 13:12:24 +0530 tt-09 (6607)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/09/13 13:12:24 +0530 tt-09 (6607)] WARN : Agent configured not to send data in this environment.
+[01/09/13 13:12:24 +0530 tt-09 (6607)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6607
+[01/09/13 13:12:24 +0530 tt-09 (6607)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/09/13 16:22:25 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:25 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:25 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:26 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:26 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:26 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:26 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:27 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:27 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:27 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:28 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:33 +0530 tt-09 (6607)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to_custom_json_format' for nil:NilClass
+[01/09/13 16:22:49 +0530 tt-09 (9866)] INFO : Dispatcher: webrick
+[01/09/13 16:22:49 +0530 tt-09 (9866)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/09/13 16:22:49 +0530 tt-09 (9866)] WARN : Agent configured not to send data in this environment.
+[01/09/13 16:22:49 +0530 tt-09 (9866)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 9866
+[01/09/13 16:22:49 +0530 tt-09 (9866)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/10/13 10:14:08 +0530 tt-09 (6494)] INFO : Dispatcher: webrick
+[01/10/13 10:14:08 +0530 tt-09 (6494)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/10/13 10:14:08 +0530 tt-09 (6494)] WARN : Agent configured not to send data in this environment.
+[01/10/13 10:14:08 +0530 tt-09 (6494)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6494
+[01/10/13 10:14:08 +0530 tt-09 (6494)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/10/13 10:15:01 +0530 tt-09 (6540)] INFO : Dispatcher: webrick
+[01/10/13 10:15:01 +0530 tt-09 (6540)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/10/13 10:15:01 +0530 tt-09 (6540)] WARN : Agent configured not to send data in this environment.
+[01/10/13 10:15:01 +0530 tt-09 (6540)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6540
+[01/10/13 10:15:01 +0530 tt-09 (6540)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 10:19:32 +0530 tt-09 (3337)] INFO : Dispatcher: webrick
+[01/11/13 10:19:32 +0530 tt-09 (3337)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 10:19:32 +0530 tt-09 (3337)] WARN : Agent configured not to send data in this environment.
+[01/11/13 10:19:32 +0530 tt-09 (3337)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 3337
+[01/11/13 10:19:32 +0530 tt-09 (3337)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 11:54:38 +0530 tt-09 (5461)] INFO : Dispatcher: webrick
+[01/11/13 11:54:38 +0530 tt-09 (5461)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 11:54:38 +0530 tt-09 (5461)] WARN : Agent configured not to send data in this environment.
+[01/11/13 11:54:38 +0530 tt-09 (5461)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 5461
+[01/11/13 11:54:38 +0530 tt-09 (5461)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 12:31:40 +0530 tt-09 (6421)] INFO : Dispatcher: webrick
+[01/11/13 12:31:40 +0530 tt-09 (6421)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 12:31:40 +0530 tt-09 (6421)] WARN : Agent configured not to send data in this environment.
+[01/11/13 12:31:40 +0530 tt-09 (6421)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6421
+[01/11/13 12:31:40 +0530 tt-09 (6421)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 12:45:16 +0530 tt-09 (6853)] INFO : Dispatcher: webrick
+[01/11/13 12:45:16 +0530 tt-09 (6853)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 12:45:16 +0530 tt-09 (6853)] WARN : Agent configured not to send data in this environment.
+[01/11/13 12:45:16 +0530 tt-09 (6853)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 6853
+[01/11/13 12:45:16 +0530 tt-09 (6853)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 16:31:43 +0530 tt-09 (11909)] INFO : Dispatcher: webrick
+[01/11/13 16:31:43 +0530 tt-09 (11909)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 16:31:43 +0530 tt-09 (11909)] WARN : Agent configured not to send data in this environment.
+[01/11/13 16:31:43 +0530 tt-09 (11909)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 11909
+[01/11/13 16:31:43 +0530 tt-09 (11909)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 16:50:42 +0530 tt-09 (12253)] INFO : Dispatcher: webrick
+[01/11/13 16:50:42 +0530 tt-09 (12253)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 16:50:42 +0530 tt-09 (12253)] WARN : Agent configured not to send data in this environment.
+[01/11/13 16:50:42 +0530 tt-09 (12253)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 12253
+[01/11/13 16:50:42 +0530 tt-09 (12253)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 17:01:59 +0530 tt-09 (12508)] INFO : Dispatcher: webrick
+[01/11/13 17:01:59 +0530 tt-09 (12508)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 17:01:59 +0530 tt-09 (12508)] WARN : Agent configured not to send data in this environment.
+[01/11/13 17:01:59 +0530 tt-09 (12508)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 12508
+[01/11/13 17:01:59 +0530 tt-09 (12508)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/11/13 17:48:05 +0530 tt-09 (13510)] INFO : Dispatcher: webrick
+[01/11/13 17:48:05 +0530 tt-09 (13510)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/11/13 17:48:05 +0530 tt-09 (13510)] WARN : Agent configured not to send data in this environment.
+[01/11/13 17:48:05 +0530 tt-09 (13510)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 13510
+[01/11/13 17:48:05 +0530 tt-09 (13510)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/12/13 09:47:21 +0530 tt-09 (2762)] INFO : Dispatcher: webrick
+[01/12/13 09:47:21 +0530 tt-09 (2762)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 09:47:21 +0530 tt-09 (2762)] WARN : Agent configured not to send data in this environment.
+[01/12/13 09:47:21 +0530 tt-09 (2762)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 2762
+[01/12/13 09:47:21 +0530 tt-09 (2762)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/12/13 11:14:47 +0530 tt-09 (4578)] INFO : Dispatcher: webrick
+[01/12/13 11:14:47 +0530 tt-09 (4578)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 11:14:47 +0530 tt-09 (4578)] WARN : Agent configured not to send data in this environment.
+[01/12/13 11:14:47 +0530 tt-09 (4578)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 4578
+[01/12/13 11:14:47 +0530 tt-09 (4578)] INFO : Agent Log at /var/www/rails_app/staging-barringtons-master/log/newrelic_agent.log
+[01/12/13 17:30:16 India Standard Time compuhub-PC (1996)] INFO : Starting the New Relic Agent.
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Environment: development
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Dispatcher: webrick
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] WARN : Agent configured not to send data in this environment.
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Installing ActiveRecord instrumentation
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Installing Net instrumentation
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Installing Rails 2 Controller instrumentation
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Installing Rails 2 Error instrumentation
+[01/12/13 17:30:17 India Standard Time compuhub-PC (1996)] INFO : Finished instrumentation
+[01/12/13 18:02:45 India Standard Time compuhub-PC (3188)] INFO : Starting the New Relic Agent.
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Environment: development
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Dispatcher: webrick
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] WARN : Agent configured not to send data in this environment.
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Installing ActiveRecord instrumentation
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Installing Net instrumentation
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Installing Rails 2 Controller instrumentation
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Installing Rails 2 Error instrumentation
+[01/12/13 18:02:46 India Standard Time compuhub-PC (3188)] INFO : Finished instrumentation
+[01/12/13 21:36:15 India Standard Time compuhub-PC (5032)] INFO : Starting the New Relic Agent.
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Environment: development
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Dispatcher: webrick
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] WARN : Agent configured not to send data in this environment.
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Installing ActiveRecord instrumentation
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Installing Net instrumentation
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Installing Rails 2 Controller instrumentation
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Installing Rails 2 Error instrumentation
+[01/12/13 21:36:16 India Standard Time compuhub-PC (5032)] INFO : Finished instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Starting the New Relic Agent.
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Environment: development
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Dispatcher: webrick
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] WARN : Agent configured not to send data in this environment.
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Installing ActiveRecord instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Installing Net instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Installing Rails 2 Controller instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Installing Rails 2 Error instrumentation
+[01/12/13 22:19:30 India Standard Time compuhub-PC (3412)] INFO : Finished instrumentation
+[01/14/13 22:25:59 India Standard Time compuhub-PC (5928)] INFO : Starting the New Relic Agent.
+[01/14/13 22:25:59 India Standard Time compuhub-PC (5928)] INFO : Environment: development
+[01/14/13 22:25:59 India Standard Time compuhub-PC (5928)] INFO : Dispatcher: webrick
+[01/14/13 22:25:59 India Standard Time compuhub-PC (5928)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/14/13 22:25:59 India Standard Time compuhub-PC (5928)] WARN : Agent configured not to send data in this environment.
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Installing ActiveRecord instrumentation
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Installing Net instrumentation
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Installing Rails 2 Controller instrumentation
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Installing Rails 2 Error instrumentation
+[01/14/13 22:26:00 India Standard Time compuhub-PC (5928)] INFO : Finished instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Starting the New Relic Agent.
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Environment: development
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Dispatcher: webrick
+[01/16/13 08:56:30 +0530 tt-09 (6742)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 08:56:30 +0530 tt-09 (6742)] WARN : Agent configured not to send data in this environment.
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Installing Net instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 08:56:30 +0530 tt-09 (6742)] INFO : Finished instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Starting the New Relic Agent.
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Environment: development
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Dispatcher: webrick
+[01/16/13 09:48:37 +0530 tt-09 (8451)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 09:48:37 +0530 tt-09 (8451)] WARN : Agent configured not to send data in this environment.
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Installing Net instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 09:48:37 +0530 tt-09 (8451)] INFO : Finished instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Starting the New Relic Agent.
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Environment: development
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Dispatcher: webrick
+[01/16/13 12:04:15 +0530 tt-09 (12060)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 12:04:15 +0530 tt-09 (12060)] WARN : Agent configured not to send data in this environment.
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Installing Net instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 12:04:15 +0530 tt-09 (12060)] INFO : Finished instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Starting the New Relic Agent.
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Environment: development
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Dispatcher: webrick
+[01/16/13 12:08:46 +0530 tt-09 (12134)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 12:08:46 +0530 tt-09 (12134)] WARN : Agent configured not to send data in this environment.
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Installing Net instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 12:08:46 +0530 tt-09 (12134)] INFO : Finished instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Starting the New Relic Agent.
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Environment: development
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Dispatcher: webrick
+[01/16/13 12:41:23 +0530 tt-09 (14739)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 12:41:23 +0530 tt-09 (14739)] WARN : Agent configured not to send data in this environment.
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Installing Net instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 12:41:23 +0530 tt-09 (14739)] INFO : Finished instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Starting the New Relic Agent.
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Environment: development
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Dispatcher: webrick
+[01/16/13 13:42:43 +0530 tt-09 (17542)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 13:42:43 +0530 tt-09 (17542)] WARN : Agent configured not to send data in this environment.
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Installing Net instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 13:42:43 +0530 tt-09 (17542)] INFO : Finished instrumentation
+[01/16/13 13:48:46 +0530 tt-09 (17643)] INFO : Starting the New Relic Agent.
+[01/16/13 13:48:46 +0530 tt-09 (17643)] INFO : Environment: development
+[01/16/13 13:48:46 +0530 tt-09 (17643)] INFO : Dispatcher: webrick
+[01/16/13 13:48:46 +0530 tt-09 (17643)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 13:48:46 +0530 tt-09 (17643)] WARN : Agent configured not to send data in this environment.
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Installing Net instrumentation
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 13:48:47 +0530 tt-09 (17643)] INFO : Finished instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Starting the New Relic Agent.
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Environment: development
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Dispatcher: webrick
+[01/16/13 14:10:29 +0530 tt-09 (18416)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 14:10:29 +0530 tt-09 (18416)] WARN : Agent configured not to send data in this environment.
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Installing Net instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 14:10:29 +0530 tt-09 (18416)] INFO : Finished instrumentation
+[01/16/13 15:17:36 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:17:37 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:17:38 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:17:40 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:17:50 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:00 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:10 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:20 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:30 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:40 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:18:55 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:19:05 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:19:26 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:19:30 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:19:36 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:19:46 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:19:56 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:20:06 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 15:20:16 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to index. Actions: 
+[01/16/13 15:20:26 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:20:39 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:20:45 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:20:49 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:20:59 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:09 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:14 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:18 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:19 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:29 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:39 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:49 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:53 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:55 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:21:59 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:09 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:19 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:29 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:39 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:49 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:56 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:22:59 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:09 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:19 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:29 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:39 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:49 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:52 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:58 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:23:59 +0530 tt-09 (18416)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: 
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Starting the New Relic Agent.
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Environment: development
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Dispatcher: webrick
+[01/16/13 15:24:11 +0530 tt-09 (20787)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 15:24:11 +0530 tt-09 (20787)] WARN : Agent configured not to send data in this environment.
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Installing Net instrumentation
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 15:24:11 +0530 tt-09 (20787)] INFO : Finished instrumentation
+[01/16/13 15:26:59 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to aka. Actions: create, destroy, edit, iconnection, index, new, show, and update
+[01/16/13 15:27:09 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to aka. Actions: create, destroy, edit, iconnection, index, new, show, and update
+[01/16/13 16:16:51 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:17:41 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:18:11 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:18:21 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:18:32 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:19:40 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:20:12 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:20:12 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:20:13 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 16:33:05 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You are not authorized to access this page.
+[01/16/13 17:19:31 +0530 tt-09 (20787)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to iconnection. Actions: welcome
+[01/16/13 19:44:27 +0530 tt-09 (29604)] INFO : Starting the New Relic Agent.
+[01/16/13 19:44:27 +0530 tt-09 (29604)] INFO : Environment: development
+[01/16/13 19:44:27 +0530 tt-09 (29604)] INFO : Dispatcher: webrick
+[01/16/13 19:44:27 +0530 tt-09 (29604)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 19:44:27 +0530 tt-09 (29604)] WARN : Agent configured not to send data in this environment.
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Installing Net instrumentation
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 19:44:28 +0530 tt-09 (29604)] INFO : Finished instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Starting the New Relic Agent.
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Environment: development
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Dispatcher: webrick
+[01/16/13 20:17:29 +0530 tt-09 (30335)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/16/13 20:17:29 +0530 tt-09 (30335)] WARN : Agent configured not to send data in this environment.
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Installing ActiveRecord instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Installing Net instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Installing Rails 2 Controller instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Installing Rails 2 Error instrumentation
+[01/16/13 20:17:29 +0530 tt-09 (30335)] INFO : Finished instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Starting the New Relic Agent.
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Environment: development
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Dispatcher: webrick
+[01/17/13 09:59:16 +0530 tt-09 (6804)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/17/13 09:59:16 +0530 tt-09 (6804)] WARN : Agent configured not to send data in this environment.
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Installing ActiveRecord instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Installing Net instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Installing Rails 2 Controller instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Installing Rails 2 Error instrumentation
+[01/17/13 09:59:16 +0530 tt-09 (6804)] INFO : Finished instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Starting the New Relic Agent.
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Environment: development
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Dispatcher: webrick
+[01/17/13 10:00:16 +0530 tt-09 (6880)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/17/13 10:00:16 +0530 tt-09 (6880)] WARN : Agent configured not to send data in this environment.
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Installing ActiveRecord instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Installing Net instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Installing Rails 2 Controller instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Installing Rails 2 Error instrumentation
+[01/17/13 10:00:16 +0530 tt-09 (6880)] INFO : Finished instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Starting the New Relic Agent.
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Environment: development
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Dispatcher: webrick
+[01/17/13 17:04:54 +0530 tt-09 (16216)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/17/13 17:04:54 +0530 tt-09 (16216)] WARN : Agent configured not to send data in this environment.
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Installing ActiveRecord instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Installing Net instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Installing Rails 2 Controller instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Installing Rails 2 Error instrumentation
+[01/17/13 17:04:54 +0530 tt-09 (16216)] INFO : Finished instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Starting the New Relic Agent.
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Environment: development
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Dispatcher: webrick
+[01/17/13 18:49:17 +0530 tt-09 (18114)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/17/13 18:49:17 +0530 tt-09 (18114)] WARN : Agent configured not to send data in this environment.
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Installing ActiveRecord instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Installing Net instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Installing Rails 2 Controller instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Installing Rails 2 Error instrumentation
+[01/17/13 18:49:17 +0530 tt-09 (18114)] INFO : Finished instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Starting the New Relic Agent.
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Environment: development
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Dispatcher: webrick
+[01/17/13 19:09:38 +0530 tt-09 (18524)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/17/13 19:09:38 +0530 tt-09 (18524)] WARN : Agent configured not to send data in this environment.
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Installing ActiveRecord instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Installing Net instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Installing Rails 2 Controller instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Installing Rails 2 Error instrumentation
+[01/17/13 19:09:38 +0530 tt-09 (18524)] INFO : Finished instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Starting the New Relic Agent.
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Environment: development
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Dispatcher: webrick
+[01/18/13 10:24:24 +0530 tt-09 (3549)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/18/13 10:24:24 +0530 tt-09 (3549)] WARN : Agent configured not to send data in this environment.
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Installing ActiveRecord instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Installing Net instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Installing Rails 2 Controller instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Installing Rails 2 Error instrumentation
+[01/18/13 10:24:24 +0530 tt-09 (3549)] INFO : Finished instrumentation
+[01/19/13 11:39:51 +0530 tt-09 (6279)] INFO : Starting the New Relic Agent.
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Environment: development
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Dispatcher: webrick
+[01/19/13 11:39:52 +0530 tt-09 (6279)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/19/13 11:39:52 +0530 tt-09 (6279)] WARN : Agent configured not to send data in this environment.
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Installing ActiveRecord instrumentation
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Installing Net instrumentation
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Installing Rails 2 Controller instrumentation
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Installing Rails 2 Error instrumentation
+[01/19/13 11:39:52 +0530 tt-09 (6279)] INFO : Finished instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Starting the New Relic Agent.
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Environment: development
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Dispatcher: webrick
+[01/19/13 15:18:48 +0530 tt-09 (11468)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/19/13 15:18:48 +0530 tt-09 (11468)] WARN : Agent configured not to send data in this environment.
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Installing ActiveRecord instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Installing Net instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Installing Rails 2 Controller instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Installing Rails 2 Error instrumentation
+[01/19/13 15:18:48 +0530 tt-09 (11468)] INFO : Finished instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Starting the New Relic Agent.
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Environment: development
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Dispatcher: webrick
+[01/21/13 10:26:23 +0530 tt-09 (2954)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/21/13 10:26:23 +0530 tt-09 (2954)] WARN : Agent configured not to send data in this environment.
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Installing ActiveRecord instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Installing Net instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Installing Rails 2 Controller instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Installing Rails 2 Error instrumentation
+[01/21/13 10:26:23 +0530 tt-09 (2954)] INFO : Finished instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Starting the New Relic Agent.
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Environment: development
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Dispatcher: webrick
+[01/21/13 13:54:42 +0530 tt-09 (8655)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/21/13 13:54:42 +0530 tt-09 (8655)] WARN : Agent configured not to send data in this environment.
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Installing ActiveRecord instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Installing Net instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Installing Rails 2 Controller instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Installing Rails 2 Error instrumentation
+[01/21/13 13:54:42 +0530 tt-09 (8655)] INFO : Finished instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Starting the New Relic Agent.
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Environment: development
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Dispatcher: webrick
+[01/22/13 10:32:13 +0530 tt-09 (3648)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/22/13 10:32:13 +0530 tt-09 (3648)] WARN : Agent configured not to send data in this environment.
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Installing ActiveRecord instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Installing Net instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Installing Rails 2 Controller instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Installing Rails 2 Error instrumentation
+[01/22/13 10:32:13 +0530 tt-09 (3648)] INFO : Finished instrumentation
+[01/22/13 14:55:27 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Location with ID=10
+[01/22/13 14:56:49 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Location with ID=10
+[01/22/13 14:57:43 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Location with ID=10
+[01/22/13 14:58:37 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Location with ID=15
+[01/22/13 14:58:57 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Location with ID=17
+[01/22/13 15:01:55 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant SourceManagerController::Meters
+[01/22/13 15:01:58 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find NodeEntry without an ID
+[01/22/13 15:02:37 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Meter with ID=24
+[01/22/13 15:15:23 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.update_attributes
+[01/22/13 15:24:01 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to node_update. Actions: menu and welcome
+[01/22/13 15:24:27 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No action responded to node_update. Actions: menu and welcome
+[01/22/13 16:09:54 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: PG::Error: ERROR:  invalid input syntax for integer: "Location%"
+LINE 1: ...ntries" SET "name" = 'Barrington_new' WHERE (id = 'Location%...
+                                                             ^
+: UPDATE "node_entries" SET "name" = 'Barrington_new' WHERE (id = 'Location%') 
+[01/22/13 16:10:17 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: PG::Error: ERROR:  invalid input syntax for integer: "Location"
+LINE 1: ...de_entries" SET "name" = 'Barrington' WHERE (id = 'Location'...
+                                                             ^
+: UPDATE "node_entries" SET "name" = 'Barrington' WHERE (id = 'Location') 
+[01/22/13 16:11:14 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template source_manager/update_node.erb in view path app/views
+[01/22/13 16:25:58 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]
+[01/22/13 16:26:16 +0530 tt-09 (3648)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.[]
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Starting the New Relic Agent.
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Environment: development
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Dispatcher: webrick
+[01/23/13 15:07:27 +0530 tt-09 (13133)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/23/13 15:07:27 +0530 tt-09 (13133)] WARN : Agent configured not to send data in this environment.
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Installing ActiveRecord instrumentation
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Installing Net instrumentation
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Installing Rails 2 Controller instrumentation
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Installing Rails 2 Error instrumentation
+[01/23/13 15:07:27 +0530 tt-09 (13133)] INFO : Finished instrumentation
+[01/23/13 15:55:06 +0530 tt-09 (14440)] INFO : Starting the New Relic Agent.
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Environment: development
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Dispatcher: webrick
+[01/23/13 15:55:07 +0530 tt-09 (14440)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/23/13 15:55:07 +0530 tt-09 (14440)] WARN : Agent configured not to send data in this environment.
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Installing ActiveRecord instrumentation
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Installing Net instrumentation
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Installing Rails 2 Controller instrumentation
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Installing Rails 2 Error instrumentation
+[01/23/13 15:55:07 +0530 tt-09 (14440)] INFO : Finished instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Starting the New Relic Agent.
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Environment: development
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Dispatcher: webrick
+[01/23/13 16:02:34 +0530 tt-09 (14658)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/23/13 16:02:34 +0530 tt-09 (14658)] WARN : Agent configured not to send data in this environment.
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Installing ActiveRecord instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Installing Net instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Installing Rails 2 Controller instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Installing Rails 2 Error instrumentation
+[01/23/13 16:02:34 +0530 tt-09 (14658)] INFO : Finished instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Starting the New Relic Agent.
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Environment: development
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Dispatcher: webrick
+[01/23/13 16:07:19 +0530 tt-09 (14810)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/23/13 16:07:19 +0530 tt-09 (14810)] WARN : Agent configured not to send data in this environment.
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Installing ActiveRecord instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Installing Net instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Installing Rails 2 Controller instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Installing Rails 2 Error instrumentation
+[01/23/13 16:07:19 +0530 tt-09 (14810)] INFO : Finished instrumentation
+[01/24/13 11:44:37 +0530 tt-09 (4232)] INFO : Dispatcher: webrick
+[01/24/13 11:44:37 +0530 tt-09 (4232)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/24/13 11:44:37 +0530 tt-09 (4232)] WARN : Agent configured not to send data in this environment.
+[01/24/13 11:44:37 +0530 tt-09 (4232)] INFO : New Relic Ruby Agent 3.5.2 Initialized: pid = 4232
+[01/24/13 11:44:37 +0530 tt-09 (4232)] INFO : Agent Log at /var/www/rails_app/customer1emission-master/log/newrelic_agent.log
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Starting the New Relic Agent.
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Environment: development
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Dispatcher: webrick
+[01/24/13 11:45:40 +0530 tt-09 (4258)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/24/13 11:45:40 +0530 tt-09 (4258)] WARN : Agent configured not to send data in this environment.
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Installing ActiveRecord instrumentation
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Installing Net instrumentation
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Installing Rails 2 Controller instrumentation
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Installing Rails 2 Error instrumentation
+[01/24/13 11:45:40 +0530 tt-09 (4258)] INFO : Finished instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Starting the New Relic Agent.
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Environment: development
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Dispatcher: webrick
+[01/24/13 11:57:41 +0530 tt-09 (4933)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/24/13 11:57:41 +0530 tt-09 (4933)] WARN : Agent configured not to send data in this environment.
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Installing ActiveRecord instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Installing Net instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Installing Rails 2 Controller instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Installing Rails 2 Error instrumentation
+[01/24/13 11:57:41 +0530 tt-09 (4933)] INFO : Finished instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Starting the New Relic Agent.
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Environment: development
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Dispatcher: webrick
+[01/24/13 12:28:10 +0530 tt-09 (6185)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[01/24/13 12:28:10 +0530 tt-09 (6185)] WARN : Agent configured not to send data in this environment.
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Installing ActiveRecord instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Installing Net instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Installing Rails 2.2 - 2.3 View instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Installing Rails 2 Controller instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Installing Rails 2 Error instrumentation
+[01/24/13 12:28:10 +0530 tt-09 (6185)] INFO : Finished instrumentation
